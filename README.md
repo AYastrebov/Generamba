@@ -35,7 +35,7 @@ When necessary you can install the required Ruby version with the help of [`rvm`
 In your `Gemfile` add
 
 ```bash
-gem "generamba", :git => 'https://github.com/AYastrebov/Generamba.git', :tag => '1.4.3'
+gem "generamba", :git => 'https://github.com/AYastrebov/Generamba.git', :tag => '1.4.4'
 ```
 
 Then just install it with

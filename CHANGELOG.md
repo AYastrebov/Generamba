@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.4.4](https://github.com/AYastrebov/Generamba/tree/1.4.3) (2019-01-05)
+[Full Changelog](https://github.com/AYastrebov/Generamba/compare/1.4.3...1.4.4)
+
+- Update xcodeproj
+
 ## [1.4.3](https://github.com/AYastrebov/Generamba/tree/1.4.3) (2018-10-10)
 [Full Changelog](https://github.com/AYastrebov/Generamba/compare/1.4.2...1.4.3)
 
