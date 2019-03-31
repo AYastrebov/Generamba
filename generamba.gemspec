@@ -20,12 +20,12 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 2.3'
 
-  spec.add_runtime_dependency 'thor', '0.20.0'
-  spec.add_runtime_dependency 'xcodeproj', '1.7.0'
-  spec.add_runtime_dependency 'liquid', '4.0.1'
-  spec.add_runtime_dependency 'git', '1.5.0'
-  spec.add_runtime_dependency 'cocoapods-core', '1.5.3'
-  spec.add_runtime_dependency 'terminal-table', '1.8.0'
+  spec.add_runtime_dependency 'thor', '~> 0.20.0'
+  spec.add_runtime_dependency 'xcodeproj', '>= 1.7.0', '< 2.0.0'
+  spec.add_runtime_dependency 'liquid', '~> 4.0.3'
+  spec.add_runtime_dependency 'git', '>= 1.5.0'
+  spec.add_runtime_dependency 'cocoapods-core', '>= 1.5.0', '< 2.0.0'
+  spec.add_runtime_dependency 'terminal-table', '~> 1.8.0'
 
   spec.add_development_dependency 'bundler', '~> 1.16'
   spec.add_development_dependency 'rake', '~> 12.0'
